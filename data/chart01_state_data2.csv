@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren3to5,atleast1immigparent,allnativebornparents,lowincome,notlowincome,notenrolled,enrolled
+1,Alabama,Enrollment,Not enrolled,0.454317629,0.534965456,0.446450859,0.526259899,0.367114305,1,0
+1,Alabama,Enrollment,Enrolled in preschool,0.352679133,0.271350026,0.359678179,0.280152559,0.439782083,0,0.646308422
+1,Alabama,Enrollment,Enrolled in kindergarten or above,0.193003252,0.193684489,0.193870962,0.193587542,0.193103611,0,0.353691548
+1,Alabama,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+2,Alaska,Enrollment,Not enrolled,0.475021631,0.609284878,0.459791869,0.523289561,0.448201269,1,0
+2,Alaska,Enrollment,Enrolled in preschool,0.335105717,0.188004613,0.353866637,0.297560155,0.35844025,0,0.638322949
+2,Alaska,Enrollment,Enrolled in kindergarten or above,0.189872637,0.202710494,0.186341509,0.179150313,0.193358496,0,0.361677051
+2,Alaska,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+4,Arizona,Enrollment,Not enrolled,0.495675921,0.516771317,0.485626251,0.561715961,0.418494731,1,0
+4,Arizona,Enrollment,Enrolled in preschool,0.30418095,0.253789186,0.32431522,0.237418354,0.381852239,0,0.603145778
+4,Arizona,Enrollment,Enrolled in kindergarten or above,0.200143158,0.229439497,0.190058529,0.200865671,0.199653029,0,0.396854222
+4,Arizona,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+5,Arkansas,Enrollment,Not enrolled,0.406747162,0.47789672,0.398154378,0.425785333,0.38038367,1,0
+5,Arkansas,Enrollment,Enrolled in preschool,0.422147542,0.321608037,0.4344019,0.390010417,0.469260216,0,0.711581171
+5,Arkansas,Enrollment,Enrolled in kindergarten or above,0.171105295,0.200495228,0.167443693,0.184204265,0.150356099,0,0.288418829
+5,Arkansas,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+6,California,Enrollment,Not enrolled,0.380467981,0.385567278,0.373072803,0.443413347,0.322143078,1,0
+6,California,Enrollment,Enrolled in preschool,0.37783277,0.355873495,0.401330501,0.303130686,0.446990699,0,0.60986799
+6,California,Enrollment,Enrolled in kindergarten or above,0.241699249,0.258559227,0.225596696,0.253455967,0.230866238,0,0.39013201
+6,California,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+8,Colorado,Enrollment,Not enrolled,0.372786433,0.403677881,0.363852501,0.450306952,0.318751544,1,0
+8,Colorado,Enrollment,Enrolled in preschool,0.422556639,0.371274382,0.439276159,0.345198452,0.477944702,0,0.673704565
+8,Colorado,Enrollment,Enrolled in kindergarten or above,0.204656944,0.225047752,0.19687134,0.204494625,0.203303725,0,0.326295435
+8,Colorado,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+9,Connecticut,Enrollment,Not enrolled,0.260841876,0.289279431,0.250072718,0.322636306,0.226371944,1,0
+9,Connecticut,Enrollment,Enrolled in preschool,0.479597509,0.4568142,0.487581939,0.400850415,0.521808624,0,0.648842931
+9,Connecticut,Enrollment,Enrolled in kindergarten or above,0.259560615,0.253906369,0.262345314,0.276513249,0.251819432,0,0.351157099
+9,Connecticut,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+10,Delaware,Enrollment,Not enrolled,0.409452468,0.478554338,0.388634235,0.493237406,0.351725519,1,0
+10,Delaware,Enrollment,Enrolled in preschool,0.411600769,0.337786525,0.435625106,0.314748198,0.481440604,0,0.696981609
+10,Delaware,Enrollment,Enrolled in kindergarten or above,0.178946748,0.183659121,0.175740644,0.192014381,0.166833878,0,0.303018361
+10,Delaware,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+11,District of Columbia,Enrollment,Not enrolled,0.16609408,0.204064637,0.155341014,0.236015171,0.108823285,1,0
+11,District of Columbia,Enrollment,Enrolled in preschool,0.603109598,0.531900704,0.627904058,0.503842771,0.684610903,0,0.723234534
+11,District of Columbia,Enrollment,Enrolled in kindergarten or above,0.230796337,0.264034659,0.216754898,0.260142028,0.206565782,0,0.276765436
+11,District of Columbia,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+12,Florida,Enrollment,Not enrolled,0.368101031,0.36719057,0.367892712,0.427840769,0.302920759,1,0
+12,Florida,Enrollment,Enrolled in preschool,0.427676022,0.405068398,0.438533127,0.364220262,0.496871054,0,0.676810801
+12,Florida,Enrollment,Enrolled in kindergarten or above,0.204222932,0.227741033,0.193574175,0.207938969,0.200208172,0,0.323189199
+12,Florida,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+13,Georgia,Enrollment,Not enrolled,0.367881089,0.416597515,0.352264613,0.423908442,0.301489383,1,0
+13,Georgia,Enrollment,Enrolled in preschool,0.42179355,0.351604074,0.443458468,0.363522023,0.49108395,0,0.667269289
+13,Georgia,Enrollment,Enrolled in kindergarten or above,0.21032536,0.23179841,0.204276919,0.212569535,0.207426667,0,0.332730711
+13,Georgia,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+15,Hawaii,Enrollment,Not enrolled,0.392812192,0.414352,0.380361438,0.438450128,0.369144976,1,0
+15,Hawaii,Enrollment,Enrolled in preschool,0.374916732,0.344160527,0.387839705,0.308051139,0.409865588,0,0.617464185
+15,Hawaii,Enrollment,Enrolled in kindergarten or above,0.232271075,0.241487488,0.231798843,0.253498703,0.220989406,0,0.382535815
+15,Hawaii,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+16,Idaho,Enrollment,Not enrolled,0.544320464,0.596996725,0.535664082,0.588269711,0.493037105,1,0
+16,Idaho,Enrollment,Enrolled in preschool,0.298557639,0.219054386,0.312240392,0.258417696,0.347064495,0,0.655192137
+16,Idaho,Enrollment,Enrolled in kindergarten or above,0.157121882,0.18394886,0.152095556,0.153312609,0.1598984,0,0.344807863
+16,Idaho,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+17,Illinois,Enrollment,Not enrolled,0.352124095,0.398764193,0.331827104,0.407758951,0.308248937,1,0
+17,Illinois,Enrollment,Enrolled in preschool,0.455866724,0.386822432,0.484991312,0.392651349,0.505521476,0,0.703632772
+17,Illinois,Enrollment,Enrolled in kindergarten or above,0.192009196,0.214413345,0.183181569,0.199589685,0.186229557,0,0.296367258
+17,Illinois,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+18,Indiana,Enrollment,Not enrolled,0.469337225,0.502973914,0.464386433,0.529403806,0.409564912,1,0
+18,Indiana,Enrollment,Enrolled in preschool,0.376883775,0.298258901,0.387550175,0.316753745,0.437207669,0,0.710213304
+18,Indiana,Enrollment,Enrolled in kindergarten or above,0.153779015,0.19876717,0.148063406,0.153842479,0.153227419,0,0.289786696
+18,Indiana,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+19,Iowa,Enrollment,Not enrolled,0.383126795,0.506555557,0.364321053,0.420251697,0.356795669,1,0
+19,Iowa,Enrollment,Enrolled in preschool,0.448526889,0.303195834,0.46935004,0.404536307,0.479645699,0,0.727097332
+19,Iowa,Enrollment,Enrolled in kindergarten or above,0.168346331,0.190248564,0.166328877,0.175211981,0.163558632,0,0.272902638
+19,Iowa,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+20,Kansas,Enrollment,Not enrolled,0.408862114,0.392561972,0.411731035,0.453058273,0.371024787,1,0
+20,Kansas,Enrollment,Enrolled in preschool,0.40356499,0.366137445,0.411988705,0.349869728,0.451009989,0,0.682691813
+20,Kansas,Enrollment,Enrolled in kindergarten or above,0.187572896,0.241300553,0.17628029,0.197072014,0.177965224,0,0.317308187
+20,Kansas,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+21,Kentucky,Enrollment,Not enrolled,0.447499484,0.437552571,0.446208745,0.499783128,0.392166257,1,0
+21,Kentucky,Enrollment,Enrolled in preschool,0.357478082,0.355130374,0.359248906,0.303301156,0.416089356,0,0.647018552
+21,Kentucky,Enrollment,Enrolled in kindergarten or above,0.195022434,0.207317069,0.194542348,0.196915731,0.191744372,0,0.352981418
+21,Kentucky,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+22,Louisiana,Enrollment,Not enrolled,0.362544626,0.410204917,0.359026641,0.40405187,0.313772291,1,0
+22,Louisiana,Enrollment,Enrolled in preschool,0.431493461,0.406812519,0.434294969,0.385810316,0.482283831,0,0.67689985
+22,Louisiana,Enrollment,Enrolled in kindergarten or above,0.205961928,0.182982564,0.206678391,0.210137799,0.203943893,0,0.32310012
+22,Louisiana,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+23,Maine,Enrollment,Not enrolled,0.43548581,0.327513963,0.443733186,0.483607948,0.404943883,1,0
+23,Maine,Enrollment,Enrolled in preschool,0.366033018,0.505586565,0.35677892,0.333314329,0.393676013,0,0.648403585
+23,Maine,Enrollment,Enrolled in kindergarten or above,0.198481172,0.166899443,0.199487895,0.183077708,0.201380089,0,0.351596415
+23,Maine,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+24,Maryland,Enrollment,Not enrolled,0.380789608,0.40952903,0.36772421,0.46369803,0.337017924,1,0
+24,Maryland,Enrollment,Enrolled in preschool,0.420170367,0.384222925,0.436569899,0.326240838,0.470045924,0,0.67855835
+24,Maryland,Enrollment,Enrolled in kindergarten or above,0.199040011,0.206248045,0.195705891,0.210061118,0.192936137,0,0.32144165
+24,Maryland,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+25,Massachusetts,Enrollment,Not enrolled,0.315812498,0.353016794,0.297009289,0.397364736,0.276440948,1,0
+25,Massachusetts,Enrollment,Enrolled in preschool,0.490421683,0.417527348,0.526141107,0.375347763,0.545854926,0,0.716794252
+25,Massachusetts,Enrollment,Enrolled in kindergarten or above,0.193765819,0.229455873,0.176849574,0.227287486,0.177704126,0,0.283205718
+25,Massachusetts,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+26,Michigan,Enrollment,Not enrolled,0.389212757,0.376024097,0.389488846,0.431888074,0.346830994,1,0
+26,Michigan,Enrollment,Enrolled in preschool,0.392803222,0.398995429,0.393363416,0.334560245,0.449489504,0,0.643109739
+26,Michigan,Enrollment,Enrolled in kindergarten or above,0.217984021,0.224980459,0.217147723,0.233551666,0.203679472,0,0.356890261
+26,Michigan,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+27,Minnesota,Enrollment,Not enrolled,0.416581392,0.434626967,0.410403728,0.468105882,0.389274389,1,0
+27,Minnesota,Enrollment,Enrolled in preschool,0.426041037,0.360399246,0.444398433,0.352657259,0.465564907,0,0.730249286
+27,Minnesota,Enrollment,Enrolled in kindergarten or above,0.157377586,0.204973802,0.145197839,0.179236844,0.145160705,0,0.269750714
+27,Minnesota,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+28,Mississippi,Enrollment,Not enrolled,0.372406989,0.48098135,0.367323905,0.374160856,0.368710071,1,0
+28,Mississippi,Enrollment,Enrolled in preschool,0.402151644,0.325028539,0.405564368,0.397196263,0.410629302,0,0.640784144
+28,Mississippi,Enrollment,Enrolled in kindergarten or above,0.225441366,0.193990111,0.227111697,0.228642896,0.220660627,0,0.359215885
+28,Mississippi,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+29,Missouri,Enrollment,Not enrolled,0.432864487,0.443735242,0.430764586,0.490924507,0.378412515,1,0
+29,Missouri,Enrollment,Enrolled in preschool,0.407150537,0.379907757,0.411579281,0.341807574,0.469033331,0,0.717906952
+29,Missouri,Enrollment,Enrolled in kindergarten or above,0.159984976,0.176357016,0.157656118,0.167267933,0.152554125,0,0.282093018
+29,Missouri,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+30,Montana,Enrollment,Not enrolled,0.470619589,0,0.470061809,0.45038572,0.492834359,1,0
+30,Montana,Enrollment,Enrolled in preschool,0.343304396,0,0.341892183,0.333615124,0.347799659,0,0.64850229
+30,Montana,Enrollment,Enrolled in kindergarten or above,0.186076015,0,0.188046023,0.215999156,0.159365982,0,0.35149774
+30,Montana,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+31,Nebraska,Enrollment,Not enrolled,0.423545301,0.431444079,0.422305435,0.485480756,0.375189871,1,0
+31,Nebraska,Enrollment,Enrolled in preschool,0.415422231,0.371457666,0.423828095,0.342685074,0.472172469,0,0.720650315
+31,Nebraska,Enrollment,Enrolled in kindergarten or above,0.161032438,0.197098255,0.15386647,0.171834186,0.152637661,0,0.279349685
+31,Nebraska,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+32,Nevada,Enrollment,Not enrolled,0.521412075,0.548419833,0.507360816,0.573699236,0.464276075,1,0
+32,Nevada,Enrollment,Enrolled in preschool,0.269620866,0.22312966,0.295396388,0.204744175,0.341008365,0,0.563367486
+32,Nevada,Enrollment,Enrolled in kindergarten or above,0.208967045,0.228450522,0.197242782,0.221556574,0.194715559,0,0.436632514
+32,Nevada,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+33,New Hampshire,Enrollment,Not enrolled,0.370901644,0.339596242,0.376105368,0.487888992,0.319871098,1,0
+33,New Hampshire,Enrollment,Enrolled in preschool,0.421565861,0.423545867,0.421260595,0.31562525,0.468828678,0,0.670111179
+33,New Hampshire,Enrollment,Enrolled in kindergarten or above,0.20753251,0.236857891,0.202634066,0.196485758,0.211300239,0,0.329888791
+33,New Hampshire,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+34,New Jersey,Enrollment,Not enrolled,0.269787133,0.290738255,0.255034149,0.320560127,0.243028775,1,0
+34,New Jersey,Enrollment,Enrolled in preschool,0.514259458,0.472960114,0.542376101,0.435190052,0.55534637,0,0.704259634
+34,New Jersey,Enrollment,Enrolled in kindergarten or above,0.215953425,0.236301646,0.20258978,0.244249836,0.201624855,0,0.295740366
+34,New Jersey,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+35,New Mexico,Enrollment,Not enrolled,0.457454264,0.490648597,0.452766538,0.495768607,0.405543387,1,0
+35,New Mexico,Enrollment,Enrolled in preschool,0.331814677,0.256144345,0.346829325,0.289840549,0.387592584,0,0.611588418
+35,New Mexico,Enrollment,Enrolled in kindergarten or above,0.210731059,0.253207058,0.200404137,0.214390844,0.206864014,0,0.388411582
+35,New Mexico,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+36,New York,Enrollment,Not enrolled,0.311894923,0.320543021,0.304274976,0.364767611,0.267886162,1,0
+36,New York,Enrollment,Enrolled in preschool,0.422046959,0.397786111,0.438270897,0.353168786,0.479178369,0,0.613346696
+36,New York,Enrollment,Enrolled in kindergarten or above,0.266058117,0.281670868,0.257454127,0.282063603,0.252935469,0,0.386653304
+36,New York,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+37,North Carolina,Enrollment,Not enrolled,0.436172068,0.479465216,0.424378425,0.508891881,0.35095197,1,0
+37,North Carolina,Enrollment,Enrolled in preschool,0.372246832,0.310614645,0.388403744,0.295481086,0.461682469,0,0.66021353
+37,North Carolina,Enrollment,Enrolled in kindergarten or above,0.191581115,0.209920153,0.187217832,0.195627004,0.187365562,0,0.3397865
+37,North Carolina,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+38,North Dakota,Enrollment,Not enrolled,0.487800628,0,0.494013309,0.523856103,0.473383158,1,0
+38,North Dakota,Enrollment,Enrolled in preschool,0.347245514,0,0.352316111,0.304379731,0.360945255,0,0.677949905
+38,North Dakota,Enrollment,Enrolled in kindergarten or above,0.164953858,0,0.153670579,0.171764135,0.165671572,0,0.322050095
+38,North Dakota,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+39,Ohio,Enrollment,Not enrolled,0.421918005,0.374321193,0.424809188,0.478621274,0.36342153,1,0
+39,Ohio,Enrollment,Enrolled in preschool,0.411349595,0.390751421,0.41428709,0.342272103,0.481572866,0,0.711576521
+39,Ohio,Enrollment,Enrolled in kindergarten or above,0.166732401,0.234927401,0.160903722,0.179106638,0.155005604,0,0.288423449
+39,Ohio,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+40,Oklahoma,Enrollment,Not enrolled,0.411091715,0.431350052,0.40649876,0.435215443,0.384167612,1,0
+40,Oklahoma,Enrollment,Enrolled in preschool,0.402225465,0.35749346,0.411012977,0.37525034,0.43435964,0,0.683001876
+40,Oklahoma,Enrollment,Enrolled in kindergarten or above,0.186682805,0.211156473,0.182488278,0.189534217,0.181472749,0,0.316998124
+40,Oklahoma,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+41,Oregon,Enrollment,Not enrolled,0.462306201,0.488079041,0.454321891,0.538586736,0.393671095,1,0
+41,Oregon,Enrollment,Enrolled in preschool,0.375138611,0.315961123,0.391723245,0.297283858,0.446604162,0,0.697680771
+41,Oregon,Enrollment,Enrolled in kindergarten or above,0.162555188,0.195959851,0.153954849,0.164129376,0.159724742,0,0.302319258
+41,Oregon,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+42,Pennsylvania,Enrollment,Not enrolled,0.41927442,0.405650437,0.421356559,0.506401479,0.354545593,1,0
+42,Pennsylvania,Enrollment,Enrolled in preschool,0.412158519,0.407286882,0.413177311,0.323488533,0.479864389,0,0.709730268
+42,Pennsylvania,Enrollment,Enrolled in kindergarten or above,0.168567061,0.187062681,0.16546613,0.170109972,0.165589988,0,0.290269732
+42,Pennsylvania,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+44,Rhode Island,Enrollment,Not enrolled,0.416661859,0.523208797,0.378161639,0.471962959,0.379827797,1,0
+44,Rhode Island,Enrollment,Enrolled in preschool,0.415022165,0.342927128,0.443591923,0.351855874,0.45587033,0,0.71146071
+44,Rhode Island,Enrollment,Enrolled in kindergarten or above,0.168315977,0.13386406,0.178246453,0.176181167,0.164301857,0,0.28853929
+44,Rhode Island,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+45,South Carolina,Enrollment,Not enrolled,0.423216164,0.479247838,0.415510207,0.474584997,0.354384065,1,0
+45,South Carolina,Enrollment,Enrolled in preschool,0.328431189,0.288366288,0.334078163,0.270522952,0.4038831,0,0.569418132
+45,South Carolina,Enrollment,Enrolled in kindergarten or above,0.248352647,0.232385904,0.25041163,0.254892081,0.241732836,0,0.430581838
+45,South Carolina,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+46,South Dakota,Enrollment,Not enrolled,0.461265117,0,0.468239456,0.47336325,0.448974669,1,0
+46,South Dakota,Enrollment,Enrolled in preschool,0.399950802,0,0.398573101,0.382429808,0.414620012,0,0.742388904
+46,South Dakota,Enrollment,Enrolled in kindergarten or above,0.138784096,0,0.133187443,0.144206926,0.136405304,0,0.257611126
+46,South Dakota,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+47,Tennessee,Enrollment,Not enrolled,0.460511297,0.531044364,0.450158536,0.508942604,0.402036399,1,0
+47,Tennessee,Enrollment,Enrolled in preschool,0.350165516,0.249918565,0.365510285,0.288975,0.425036371,0,0.64906925
+47,Tennessee,Enrollment,Enrolled in kindergarten or above,0.189323172,0.219037071,0.184331179,0.202082366,0.172927216,0,0.35093075
+47,Tennessee,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+48,Texas,Enrollment,Not enrolled,0.431784242,0.441886097,0.425571859,0.47610271,0.38274914,1,0
+48,Texas,Enrollment,Enrolled in preschool,0.368913025,0.334837884,0.387636721,0.314540893,0.428970695,0,0.649248123
+48,Texas,Enrollment,Enrolled in kindergarten or above,0.199302733,0.223276034,0.186791435,0.209356397,0.18828015,0,0.350751877
+48,Texas,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+49,Utah,Enrollment,Not enrolled,0.45122543,0.477548003,0.446184903,0.51760745,0.403614521,1,0
+49,Utah,Enrollment,Enrolled in preschool,0.373360455,0.278281301,0.39124763,0.310205817,0.421072066,0,0.680353045
+49,Utah,Enrollment,Enrolled in kindergarten or above,0.175414115,0.24417071,0.162567466,0.172186688,0.175313428,0,0.319646955
+49,Utah,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+50,Vermont,Enrollment,Not enrolled,0.363121539,0,0.362522781,0.441396505,0.314255625,1,0
+50,Vermont,Enrollment,Enrolled in preschool,0.451602846,0,0.451743394,0.376164854,0.496664315,0,0.709087968
+50,Vermont,Enrollment,Enrolled in kindergarten or above,0.185275629,0,0.185733825,0.182438642,0.18908006,0,0.290912062
+50,Vermont,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+51,Virginia,Enrollment,Not enrolled,0.39294526,0.421243817,0.382601231,0.485921085,0.337464839,1,0
+51,Virginia,Enrollment,Enrolled in preschool,0.403626949,0.359706014,0.418292493,0.29913193,0.465301871,0,0.664893866
+51,Virginia,Enrollment,Enrolled in kindergarten or above,0.203427792,0.219050184,0.199106276,0.21494697,0.197233275,0,0.335106164
+51,Virginia,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+53,Washington,Enrollment,Not enrolled,0.465373218,0.502470255,0.450168997,0.555374742,0.401549459,1,0
+53,Washington,Enrollment,Enrolled in preschool,0.371653318,0.332521021,0.387697875,0.286911935,0.433399737,0,0.695164025
+53,Washington,Enrollment,Enrolled in kindergarten or above,0.162973464,0.165008724,0.162133113,0.157713324,0.165050805,0,0.304835945
+53,Washington,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+54,West Virginia,Enrollment,Not enrolled,0.485946655,0,0.486811221,0.520519376,0.4546251,1,0
+54,West Virginia,Enrollment,Enrolled in preschool,0.332715333,0,0.331415057,0.310001254,0.357288867,0,0.64723891
+54,West Virginia,Enrollment,Enrolled in kindergarten or above,0.181338027,0,0.181773722,0.169479385,0.188086048,0,0.35276112
+54,West Virginia,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+55,Wisconsin,Enrollment,Not enrolled,0.399531782,0.420043766,0.398192763,0.429202527,0.379796952,1,0
+55,Wisconsin,Enrollment,Enrolled in preschool,0.355411828,0.279907614,0.363897502,0.284419537,0.407536715,0,0.59189117
+55,Wisconsin,Enrollment,Enrolled in kindergarten or above,0.245056406,0.300048649,0.237909749,0.286377937,0.212666333,0,0.40810886
+55,Wisconsin,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+56,Wyoming,Enrollment,Not enrolled,0.438151002,0,0.452046096,0.419249773,0.450624526,1,0
+56,Wyoming,Enrollment,Enrolled in preschool,0.408575624,0,0.404636592,0.417902052,0.407563329,0,0.727198243
+56,Wyoming,Enrollment,Enrolled in kindergarten or above,0.153273374,0,0.143317297,0.16284816,0.141812161,0,0.272801727
+56,Wyoming,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0
+100,United States,Enrollment,Not enrolled,0.39865914,0.404987782,0.395439625,0.458354235,0.344687611,1,0
+100,United States,Enrollment,Enrolled in preschool,0.397333711,0.360898167,0.410936803,0.328653157,0.459596694,0,0.660746276
+100,United States,Enrollment,Enrolled in kindergarten or above,0.204007134,0.234114051,0.193623573,0.212992609,0.195715696,0,0.339253724
+100,United States,Enrollment,Enrolled in preschool or above,0,0,0,0,0,0,0

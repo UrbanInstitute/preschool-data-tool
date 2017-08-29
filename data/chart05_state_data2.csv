@@ -1,0 +1,209 @@
+areaFIPS,areaname,Category,Subcategory,allchildren3to5,atleast1immigparent,allnativebornparents,lowincome,notlowincome,notenrolled,enrolled
+1,Alabama,Parental education,At least one parent has less than a high school education,0.191418961,0.492009729,0.160752952,0.292142898,0.073731124,0.243036494,0.148409992
+1,Alabama,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.637350857,0.357836872,0.664006829,0.653350472,0.614999533,0.648328066,0.628204346
+1,Alabama,Parental education,All parents completed a bachelor’s degree or more,0.171230197,0.150153413,0.175240204,0.054506615,0.311269343,0.108635463,0.223385632
+1,Alabama,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+2,Alaska,Parental education,At least one parent has less than a high school education,0.1059855,0.197520182,0.094151862,0.182307228,0.052075472,0.129202843,0.085018575
+2,Alaska,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.71853894,0.640426755,0.728652,0.730509758,0.715220153,0.719527304,0.71764636
+2,Alaska,Parental education,All parents completed a bachelor’s degree or more,0.175475553,0.162053064,0.177196115,0.087182991,0.232704401,0.151269838,0.197335064
+2,Alaska,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+4,Arizona,Parental education,At least one parent has less than a high school education,0.243301928,0.467453599,0.156404957,0.38372159,0.079592071,0.29311046,0.194414303
+4,Arizona,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.583425522,0.403020352,0.651233375,0.561746657,0.609011471,0.590236425,0.576740563
+4,Arizona,Parental education,All parents completed a bachelor’s degree or more,0.17327255,0.129526064,0.192361698,0.054531742,0.31139648,0.116653129,0.228845149
+4,Arizona,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+5,Arkansas,Parental education,At least one parent has less than a high school education,0.186385751,0.475566238,0.147561982,0.274783999,0.068006426,0.21884273,0.164167523
+5,Arkansas,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.662867725,0.401573092,0.697237372,0.679386377,0.640010297,0.659784019,0.664978623
+5,Arkansas,Parental education,All parents completed a bachelor’s degree or more,0.150746524,0.122860678,0.155200645,0.045829665,0.291983247,0.121373229,0.170853853
+5,Arkansas,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+6,California,Parental education,At least one parent has less than a high school education,0.279880404,0.431605279,0.134214237,0.467462778,0.110191405,0.33641091,0.245194018
+6,California,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.510657787,0.375526428,0.636707187,0.485424995,0.532105684,0.535330951,0.495518655
+6,California,Parental education,All parents completed a bachelor’s degree or more,0.209461808,0.192868307,0.229078561,0.047112245,0.357702911,0.128258124,0.259287328
+6,California,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+8,Colorado,Parental education,At least one parent has less than a high school education,0.180023134,0.460289598,0.097400963,0.35095489,0.061542291,0.224329516,0.153686479
+8,Colorado,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.550401926,0.38242349,0.598017395,0.569914758,0.534797072,0.59503597,0.523870528
+8,Colorado,Parental education,All parents completed a bachelor’s degree or more,0.26957494,0.157286897,0.304581642,0.079130352,0.403660655,0.180634528,0.322443008
+8,Colorado,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+9,Connecticut,Parental education,At least one parent has less than a high school education,0.122656956,0.187378168,0.097912423,0.278847367,0.044428598,0.183297217,0.101283059
+9,Connecticut,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.534713924,0.455599934,0.561810553,0.639172673,0.484547108,0.593674421,0.513932109
+9,Connecticut,Parental education,All parents completed a bachelor’s degree or more,0.342629135,0.357021898,0.340276986,0.081979968,0.471024305,0.223028362,0.384784847
+9,Connecticut,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+10,Delaware,Parental education,At least one parent has less than a high school education,0.181698814,0.409084529,0.122750141,0.32172662,0.086827852,0.262434691,0.126120806
+10,Delaware,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.58565551,0.297989041,0.659549117,0.588992834,0.575491548,0.587132335,0.584638894
+10,Delaware,Parental education,All parents completed a bachelor’s degree or more,0.232645676,0.292926461,0.217700765,0.089280576,0.337680578,0.150432974,0.28924033
+10,Delaware,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+11,District of Columbia,Parental education,At least one parent has less than a high school education,0.184271052,0.317174733,0.128682658,0.283962637,0.09484826,0.286018074,0.163960516
+11,District of Columbia,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.492126673,0.35232383,0.54076612,0.676625133,0.333664089,0.550770879,0.480420262
+11,District of Columbia,Parental education,All parents completed a bachelor’s degree or more,0.323602259,0.330501407,0.330551237,0.039412223,0.571487665,0.163211063,0.355619222
+11,District of Columbia,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+12,Florida,Parental education,At least one parent has less than a high school education,0.179599851,0.254785091,0.141452715,0.283118844,0.066953696,0.23381795,0.148084909
+12,Florida,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.633553147,0.553744376,0.671676636,0.655404449,0.607888579,0.644827843,0.626999617
+12,Florida,Parental education,All parents completed a bachelor’s degree or more,0.186847001,0.191470504,0.186870635,0.061476704,0.325157702,0.121354215,0.224915504
+12,Florida,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+13,Georgia,Parental education,At least one parent has less than a high school education,0.203363404,0.421854079,0.141163081,0.323598742,0.068172865,0.270737529,0.16424045
+13,Georgia,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.58513093,0.369421124,0.643969238,0.614832163,0.550426602,0.591555536,0.581400216
+13,Georgia,Parental education,All parents completed a bachelor’s degree or more,0.211505696,0.208724812,0.214867696,0.061569072,0.381400526,0.137706921,0.254359335
+13,Georgia,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+15,Hawaii,Parental education,At least one parent has less than a high school education,0.098917879,0.147310629,0.075270273,0.169062361,0.064426653,0.134269103,0.075925246
+15,Hawaii,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.707567394,0.651329994,0.732083321,0.759287953,0.675693452,0.738267422,0.687599897
+15,Hawaii,Parental education,All parents completed a bachelor’s degree or more,0.193514735,0.201359391,0.192646384,0.071649715,0.259879887,0.12746349,0.236474857
+15,Hawaii,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+16,Idaho,Parental education,At least one parent has less than a high school education,0.171714813,0.519987822,0.114015095,0.268595815,0.067234986,0.194515422,0.14451687
+16,Idaho,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.657079577,0.356939942,0.707009971,0.647312999,0.662628114,0.666270316,0.646116257
+16,Idaho,Parental education,All parents completed a bachelor’s degree or more,0.17120564,0.123072237,0.178974926,0.084091209,0.270136923,0.139214247,0.209366888
+16,Idaho,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+17,Illinois,Parental education,At least one parent has less than a high school education,0.169152021,0.34800455,0.096116565,0.300024629,0.069705226,0.225929707,0.138306171
+17,Illinois,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.573076606,0.44295013,0.623449266,0.633880436,0.526518345,0.594237208,0.561580598
+17,Illinois,Parental education,All parents completed a bachelor’s degree or more,0.257771343,0.209045306,0.280434191,0.06609492,0.403776407,0.179833084,0.300113201
+17,Illinois,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+18,Indiana,Parental education,At least one parent has less than a high school education,0.182241559,0.446595281,0.149567008,0.300258845,0.066442251,0.245368093,0.126465008
+18,Indiana,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.620622694,0.385025769,0.648701906,0.633184731,0.605985582,0.625381231,0.616418242
+18,Indiana,Parental education,All parents completed a bachelor’s degree or more,0.197135761,0.168378934,0.201731101,0.066556416,0.327572197,0.12925069,0.257116795
+18,Indiana,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+19,Iowa,Parental education,At least one parent has less than a high school education,0.120745711,0.43396613,0.075703442,0.207489982,0.06324248,0.158396006,0.097474895
+19,Iowa,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.66294086,0.363903314,0.706047058,0.723381281,0.619458795,0.653213799,0.668952942
+19,Iowa,Parental education,All parents completed a bachelor’s degree or more,0.216313422,0.202130571,0.218249515,0.069128729,0.31729871,0.18839018,0.23357217
+19,Iowa,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+20,Kansas,Parental education,At least one parent has less than a high school education,0.15971233,0.499401927,0.099559084,0.279966682,0.059593044,0.17700015,0.147760794
+20,Kansas,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.602819085,0.326555014,0.649386346,0.645734727,0.564631879,0.632710993,0.582153976
+20,Kansas,Parental education,All parents completed a bachelor’s degree or more,0.2374686,0.174043059,0.251054585,0.074298576,0.375775069,0.190288872,0.270085245
+20,Kansas,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+21,Kentucky,Parental education,At least one parent has less than a high school education,0.17336531,0.365433127,0.154216468,0.278058141,0.060227245,0.206339821,0.14667818
+21,Kentucky,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.666396439,0.416246146,0.68975383,0.675713003,0.656890452,0.681852043,0.653887749
+21,Kentucky,Parental education,All parents completed a bachelor’s degree or more,0.160238281,0.218320712,0.156029731,0.046228848,0.282882273,0.111808106,0.199434057
+21,Kentucky,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+22,Louisiana,Parental education,At least one parent has less than a high school education,0.197954193,0.331833273,0.186325178,0.293523043,0.09509822,0.259400696,0.163183704
+22,Louisiana,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.649302959,0.476253122,0.663280129,0.656981349,0.641043663,0.633841097,0.658052325
+22,Louisiana,Parental education,All parents completed a bachelor’s degree or more,0.152742818,0.191913605,0.150394678,0.049495604,0.26385814,0.106758207,0.178763941
+22,Louisiana,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+23,Maine,Parental education,At least one parent has less than a high school education,0.097292073,0.273393869,0.08230345,0.179431573,0.033585187,0.120874241,0.079072557
+23,Maine,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.677006781,0.41236034,0.698351324,0.729083419,0.630737662,0.725689232,0.63939482
+23,Maine,Parental education,All parents completed a bachelor’s degree or more,0.225701153,0.31424582,0.219345227,0.091484994,0.335677177,0.153436512,0.281532586
+23,Maine,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+24,Maryland,Parental education,At least one parent has less than a high school education,0.149265811,0.282904238,0.093945265,0.305324942,0.070697941,0.202227652,0.116809137
+24,Maryland,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.535426855,0.391679734,0.590913892,0.619099438,0.492826611,0.584970832,0.505064666
+24,Maryland,Parental education,All parents completed a bachelor’s degree or more,0.315307349,0.325415999,0.315140843,0.075575612,0.436475456,0.212801486,0.378126174
+24,Maryland,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+25,Massachusetts,Parental education,At least one parent has less than a high school education,0.12000142,0.208380878,0.077950194,0.266876072,0.051642243,0.168037727,0.097847268
+25,Massachusetts,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.522661746,0.462277383,0.548302412,0.645556569,0.464519203,0.596274257,0.488711923
+25,Massachusetts,Parental education,All parents completed a bachelor’s degree or more,0.357336879,0.329341739,0.373747379,0.087567382,0.483838558,0.235688016,0.413440794
+25,Massachusetts,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+26,Michigan,Parental education,At least one parent has less than a high school education,0.146694005,0.291996866,0.124913029,0.249549448,0.051318262,0.1857685,0.121853791
+26,Michigan,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.638810158,0.393950224,0.673318863,0.691110909,0.589706659,0.657196045,0.627122045
+26,Michigan,Parental education,All parents completed a bachelor’s degree or more,0.214495808,0.31405291,0.20176813,0.059339672,0.358975053,0.15703547,0.251024187
+26,Michigan,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+27,Minnesota,Parental education,At least one parent has less than a high school education,0.125331864,0.33965531,0.070859246,0.27933979,0.043026522,0.14777796,0.109352589
+27,Minnesota,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.602336705,0.440293014,0.642461121,0.659353852,0.570260108,0.631115437,0.581849217
+27,Minnesota,Parental education,All parents completed a bachelor’s degree or more,0.272331446,0.220051676,0.286679655,0.06130638,0.386713356,0.221106604,0.308798164
+27,Minnesota,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+28,Mississippi,Parental education,At least one parent has less than a high school education,0.185928807,0.424686193,0.17286323,0.247150198,0.090916485,0.22899726,0.160365939
+28,Mississippi,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.669413328,0.424115628,0.682245791,0.694497824,0.628035605,0.665994346,0.671442628
+28,Mississippi,Parental education,All parents completed a bachelor’s degree or more,0.144657865,0.151198179,0.144890964,0.058351982,0.281047881,0.105008386,0.168191448
+28,Mississippi,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+29,Missouri,Parental education,At least one parent has less than a high school education,0.151993468,0.348691255,0.132776186,0.252751827,0.060587294,0.193175524,0.120759897
+29,Missouri,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.636098206,0.372452259,0.659769416,0.680580258,0.597177505,0.655939698,0.621049821
+29,Missouri,Parental education,All parents completed a bachelor’s degree or more,0.21190834,0.278856456,0.207454383,0.066667929,0.342235208,0.150884748,0.258190274
+29,Missouri,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+30,Montana,Parental education,At least one parent has less than a high school education,0.110322006,0,0.113600045,0.188059077,0.031701017,0.128632277,0.093942903
+30,Montana,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.670637667,0,0.666924119,0.71629703,0.62404418,0.707369685,0.637779713
+30,Montana,Parental education,All parents completed a bachelor’s degree or more,0.219040349,0,0.219475821,0.095643893,0.344254822,0.163998052,0.268277407
+30,Montana,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+31,Nebraska,Parental education,At least one parent has less than a high school education,0.147491097,0.53139317,0.076599181,0.274645686,0.055655051,0.162890524,0.136231169
+31,Nebraska,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.610488832,0.335228235,0.657711983,0.646227002,0.580127418,0.628813207,0.597090185
+31,Nebraska,Parental education,All parents completed a bachelor’s degree or more,0.242020071,0.13337858,0.265688837,0.079127297,0.36421755,0.208296284,0.266678631
+31,Nebraska,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+32,Nevada,Parental education,At least one parent has less than a high school education,0.26717025,0.451852411,0.162612483,0.396710247,0.135346457,0.29042694,0.241879031
+32,Nevada,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.60654062,0.45942536,0.688382268,0.560505569,0.649716914,0.622391343,0.589303315
+32,Nevada,Parental education,All parents completed a bachelor’s degree or more,0.126289129,0.088722251,0.149005249,0.042784173,0.214936644,0.087181725,0.168817669
+32,Nevada,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+33,New Hampshire,Parental education,At least one parent has less than a high school education,0.099726193,0.107535481,0.098911434,0.188538074,0.059891898,0.136959285,0.077760264
+33,New Hampshire,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.597719848,0.478512883,0.612390816,0.730554163,0.545338571,0.66164124,0.560009003
+33,New Hampshire,Parental education,All parents completed a bachelor’s degree or more,0.302553922,0.413951635,0.288697749,0.080907747,0.39476952,0.20139949,0.362230718
+33,New Hampshire,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+34,New Jersey,Parental education,At least one parent has less than a high school education,0.130890444,0.211672351,0.077004619,0.276997447,0.054057539,0.164961144,0.118358523
+34,New Jersey,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.543607056,0.458980262,0.595196962,0.64041692,0.491880327,0.591392577,0.52603054
+34,New Jersey,Parental education,All parents completed a bachelor’s degree or more,0.325502485,0.329347402,0.327798456,0.082585633,0.454062134,0.243646294,0.355610907
+34,New Jersey,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+35,New Mexico,Parental education,At least one parent has less than a high school education,0.246678457,0.531590939,0.176898852,0.358001471,0.097050741,0.314596683,0.189490482
+35,New Mexico,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.613834023,0.357451141,0.674372971,0.590052307,0.643425882,0.579539061,0.642710805
+35,New Mexico,Parental education,All parents completed a bachelor’s degree or more,0.13948752,0.110957921,0.148728162,0.051946193,0.259523362,0.105864279,0.167798698
+35,New Mexico,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+36,New York,Parental education,At least one parent has less than a high school education,0.195638314,0.289447606,0.136311471,0.34652245,0.074924633,0.25119403,0.170534104
+36,New York,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.551520467,0.485620528,0.590862155,0.580652714,0.527139664,0.571604967,0.542444766
+36,New York,Parental education,All parents completed a bachelor’s degree or more,0.252841204,0.224931851,0.272826403,0.072824836,0.397935718,0.177200988,0.287021101
+36,New York,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+37,North Carolina,Parental education,At least one parent has less than a high school education,0.198142231,0.472853541,0.126590431,0.315376759,0.063490801,0.255178779,0.154039279
+37,North Carolina,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.585293472,0.354056984,0.643846989,0.62094897,0.543211043,0.614846468,0.562441826
+37,North Carolina,Parental education,All parents completed a bachelor’s degree or more,0.216564327,0.173089489,0.229562566,0.063674293,0.393298119,0.129974723,0.283518881
+37,North Carolina,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+38,North Dakota,Parental education,At least one parent has less than a high school education,0.08321055,0,0.076292746,0.189136282,0.037579648,0.09530317,0.071697593
+38,North Dakota,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.645407975,0,0.652061641,0.702715933,0.618834972,0.660289168,0.631240129
+38,North Dakota,Parental education,All parents completed a bachelor’s degree or more,0.271381468,0,0.271645576,0.108147785,0.343585372,0.244407684,0.297062248
+38,North Dakota,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+39,Ohio,Parental education,At least one parent has less than a high school education,0.148151815,0.282029271,0.134489313,0.25387916,0.04583082,0.196269587,0.113053642
+39,Ohio,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.642807543,0.401695669,0.664707303,0.688055336,0.597846329,0.664087772,0.627285302
+39,Ohio,Parental education,All parents completed a bachelor’s degree or more,0.209040657,0.31627506,0.200803369,0.058065511,0.356322825,0.139642656,0.259661078
+39,Ohio,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+40,Oklahoma,Parental education,At least one parent has less than a high school education,0.198110297,0.53956604,0.141714826,0.288561165,0.096153066,0.225105554,0.179316044
+40,Oklahoma,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.642819285,0.335244745,0.692378163,0.656073451,0.623378038,0.650027812,0.637800634
+40,Oklahoma,Parental education,All parents completed a bachelor’s degree or more,0.159070447,0.12518923,0.165907025,0.055365391,0.280468911,0.124866642,0.182883322
+40,Oklahoma,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+41,Oregon,Parental education,At least one parent has less than a high school education,0.187252223,0.441250026,0.112708755,0.309483916,0.081331238,0.224310517,0.155374914
+41,Oregon,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.591444612,0.387486935,0.649119079,0.628794372,0.553610504,0.630397975,0.557937205
+41,Oregon,Parental education,All parents completed a bachelor’s degree or more,0.221303165,0.171263024,0.238172144,0.061721686,0.365058273,0.145291522,0.286687911
+41,Oregon,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+42,Pennsylvania,Parental education,At least one parent has less than a high school education,0.138112992,0.228406444,0.124780327,0.242254496,0.061082374,0.201855734,0.092067346
+42,Pennsylvania,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.612926662,0.454424053,0.63391459,0.689347386,0.554122686,0.633827627,0.597828448
+42,Pennsylvania,Parental education,All parents completed a bachelor’s degree or more,0.248960361,0.317169517,0.241305098,0.068398111,0.38479498,0.164316624,0.310104221
+42,Pennsylvania,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+44,Rhode Island,Parental education,At least one parent has less than a high school education,0.16265285,0.313778311,0.110425666,0.292887628,0.075561538,0.228804201,0.115386516
+44,Rhode Island,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.608113945,0.537170827,0.631053388,0.653281212,0.577557623,0.624136984,0.596665204
+44,Rhode Island,Parental education,All parents completed a bachelor’s degree or more,0.229233205,0.149050832,0.258520961,0.053831127,0.346880853,0.14705883,0.28794831
+44,Rhode Island,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+45,South Carolina,Parental education,At least one parent has less than a high school education,0.182294235,0.41538018,0.149481922,0.283812791,0.056068707,0.227511063,0.14928405
+45,South Carolina,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.638565361,0.428942442,0.666738868,0.656829834,0.615104198,0.646048307,0.633102477
+45,South Carolina,Parental education,All parents completed a bachelor’s degree or more,0.179140404,0.155677393,0.183779195,0.059357341,0.328827113,0.126440614,0.217613474
+45,South Carolina,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+46,South Dakota,Parental education,At least one parent has less than a high school education,0.102199256,0,0.086873107,0.189868316,0.039710496,0.104690768,0.100056529
+46,South Dakota,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.689368427,0,0.700080931,0.730516016,0.655440271,0.715327144,0.667043507
+46,South Dakota,Parental education,All parents completed a bachelor’s degree or more,0.208432332,0,0.213045955,0.079615697,0.304849207,0.179982066,0.232899949
+46,South Dakota,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+47,Tennessee,Parental education,At least one parent has less than a high school education,0.166300774,0.456414104,0.123845704,0.260363936,0.056737337,0.205033749,0.133270115
+47,Tennessee,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.645937026,0.379340678,0.683152616,0.684061766,0.596412063,0.666646421,0.628276587
+47,Tennessee,Parental education,All parents completed a bachelor’s degree or more,0.187762171,0.164245233,0.193001673,0.055574302,0.346850634,0.12831986,0.238453329
+47,Tennessee,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+48,Texas,Parental education,At least one parent has less than a high school education,0.261780351,0.499509186,0.139537424,0.413696021,0.099624202,0.297739118,0.23447071
+48,Texas,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.557911158,0.361385107,0.657905102,0.54160285,0.573599279,0.582017064,0.539603412
+48,Texas,Parental education,All parents completed a bachelor’s degree or more,0.180308476,0.139105722,0.202557459,0.044701092,0.326776534,0.12024384,0.225925878
+48,Texas,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+49,Utah,Parental education,At least one parent has less than a high school education,0.11754436,0.371714592,0.067844525,0.199260473,0.058098573,0.143706486,0.096021026
+49,Utah,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.648278654,0.485086918,0.680464387,0.676828563,0.626223207,0.663935125,0.635398269
+49,Utah,Parental education,All parents completed a bachelor’s degree or more,0.234176964,0.14319849,0.251691073,0.123910941,0.315678239,0.192358389,0.268580735
+49,Utah,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+50,Vermont,Parental education,At least one parent has less than a high school education,0.114704661,0,0.106939383,0.207457989,0.054160815,0.126272038,0.108119138
+50,Vermont,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.59874171,0,0.59645623,0.711528361,0.520101845,0.685251534,0.549489975
+50,Vermont,Parental education,All parents completed a bachelor’s degree or more,0.286553651,0,0.296604365,0.081013657,0.425737351,0.188476428,0.342390865
+50,Vermont,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+51,Virginia,Parental education,At least one parent has less than a high school education,0.135035619,0.255132884,0.098282009,0.267748624,0.058172237,0.186589822,0.101689145
+51,Virginia,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.560208201,0.399137318,0.605761051,0.655800462,0.501917958,0.627208948,0.516870499
+51,Virginia,Parental education,All parents completed a bachelor’s degree or more,0.304756194,0.345729798,0.295956969,0.076450884,0.439909816,0.186201259,0.381440341
+51,Virginia,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+53,Washington,Parental education,At least one parent has less than a high school education,0.169284254,0.352403015,0.096624628,0.306793272,0.074562147,0.216833159,0.12793529
+53,Washington,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.593043089,0.40674895,0.66486156,0.622576952,0.56926769,0.635906339,0.555768788
+53,Washington,Parental education,All parents completed a bachelor’s degree or more,0.237672687,0.24084802,0.238513812,0.07062979,0.356170148,0.147260517,0.316295922
+53,Washington,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+54,West Virginia,Parental education,At least one parent has less than a high school education,0.141823575,0,0.139142483,0.223112911,0.059537329,0.175467879,0.109913528
+54,West Virginia,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.71982187,0,0.733518124,0.731409848,0.700496435,0.711052597,0.728139102
+54,West Virginia,Parental education,All parents completed a bachelor’s degree or more,0.138354555,0,0.127339423,0.04547723,0.239966258,0.113479502,0.161947384
+54,West Virginia,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+55,Wisconsin,Parental education,At least one parent has less than a high school education,0.131335244,0.38531366,0.096854545,0.244632021,0.048777938,0.157584473,0.113862649
+55,Wisconsin,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.636600971,0.409101963,0.666963458,0.690815449,0.597322583,0.650065005,0.627638757
+55,Wisconsin,Parental education,All parents completed a bachelor’s degree or more,0.23206377,0.205584377,0.236181989,0.064552508,0.353899509,0.192350537,0.258498579
+55,Wisconsin,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+56,Wyoming,Parental education,At least one parent has less than a high school education,0.124251686,0,0.108111784,0.172955975,0.094127387,0.152846768,0.101945005
+56,Wyoming,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.707539678,0,0.724888861,0.776841879,0.663860321,0.668609083,0.737908959
+56,Wyoming,Parental education,All parents completed a bachelor’s degree or more,0.168208644,0,0.16699937,0.050202157,0.242012277,0.178544134,0.160146058
+56,Wyoming,Parental education,All parents graduated high school,0,0,0,0,0,0,0
+100,United States,Parental education,At least one parent has less than a high school education,0.190772429,0.378055483,0.125116989,0.324430704,0.07335975,0.238214657,0.159359992
+100,United States,Parental education,All parents graduated high school; at least one does not have a bachelor's degree,0.588968039,0.414227426,0.648052931,0.614778876,0.564440966,0.613919854,0.572446942
+100,United States,Parental education,All parents completed a bachelor’s degree or more,0.220259547,0.207717076,0.22683005,0.06079039,0.362199277,0.147865474,0.268193096
+100,United States,Parental education,All parents graduated high school,0,0,0,0,0,0,0
