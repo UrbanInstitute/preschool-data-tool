@@ -217,27 +217,19 @@ border-right-color: #222;
 
 .headerimage{
     width: 100%;
-    height: 400px;
+    height: 450px;
     position: relative;
     top: 50px;
 }
 
 #heroimage{
-   background-image: url("../img/shutterstock_655672276-header.jpg");
+   background-image: url("../img/preschool.jpg");
      background-size: cover;
     background-repeat: no-repeat;
 }
 
 
-h1{
-    font-size: 70px;
-    font-weight: 500;
-    padding-top: 180px; 
-    text-align: left;
-    color:#fff;
-	text-shadow: 1px 1px #000;
-    
-}
+
 
 
 
@@ -324,18 +316,7 @@ h4{
 
 /************** general text styles***************/
 
-ul{
-    text-align: left;
-     list-style-position:outside;
-    margin:10px 0px 25px 45px;
- 
-}
 
-li{
-    margin-bottom:15px;
-    list-style:disc;
-    padding-left:10px;
-}
 
 
 
@@ -537,8 +518,8 @@ ul#menu {
 /*browser windows smaller than 850px*/
 @media (max-width: 399px) {
    .wrapper {padding-top:80px;} 
-   .headerimage{ height:150px;}
-    h1{font-size: 20px; padding-top: 76px;}
+   .headerimage{ height:160px;}
+
     .overhalf{width:100%;}
 }
 
@@ -550,16 +531,11 @@ ul#menu {
 @media (max-width: 600px) and (min-width:400px) {
    .wrapper {padding-top:80px;} 
    .headerimage{ height:250px;}
-    h1{font-size: 30px; padding-top: 125px;}
     .overhalf{width:100%;}
 }
 
 
-@media (max-width:800px) and (min-width:601px) {
 
-    h1{font-size: 50px; padding-top: 200px;}
-	
-}
 
 .full-col {
  

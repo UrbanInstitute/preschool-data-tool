@@ -13,8 +13,11 @@ body.ub-body strong {
 	display:block;
 	float:left;
 	max-width:1180px;
-	padding:20px;
+	padding-left:5%; 
+	padding-right:5%; 
+	padding-top:3.2%;
 	position:relative;
+	margin: 
 }
 #ub-container * {
 	box-sizing:border-box;
@@ -29,7 +32,9 @@ body.ub-body strong {
 	display: block;
 	height: 100%;
 	left: 0;
-	padding: 20px;
+	padding-left:5%; 
+	padding-right:5%; 
+	padding-top:3.2%;
 	position: absolute;
 	right: 0;
 	text-align: left;
@@ -60,7 +65,7 @@ body.ub-body strong {
 	display:block;
 	float:left;
 	font-family: 'Lato', Arial, Helvetica, sans-serif;
-	font-size: 36px;
+	font-size: 30px;
 	font-weight: 700;
 	line-height: 40px;
 	margin-bottom:0px;
