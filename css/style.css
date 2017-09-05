@@ -381,6 +381,11 @@ footer .content{
 }
    
 
+.about-data {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
 h4 {
     font-size: 34px;
     font-weight: 900;
