@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
      border: 0px none;
      margin: 0px;
      padding: 0px;
@@ -12,9 +12,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body, html {
      color: #000;
      font-family: "Lato",sans-serif;
-     font-size: 21px;
-     /*height: 100%;*/
-     line-height: 1.2;
+
      margin: 0px;
      padding: 0px;
      text-align: left;
@@ -67,12 +65,7 @@ p{
     line-height: 1.3;
 }
 
-h3{
-    font-size: 24px;
-    font-weight: 400;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-}
+
 
 .bold{
     
@@ -190,7 +183,7 @@ border-right-color: #222;
     display: inline-block;
     text-align: center;
     text-transform: uppercase;
-    font-size: 11px;
+   
     padding-left: 1%;
 
 }
@@ -217,7 +210,7 @@ border-right-color: #222;
 
 .headerimage{
     width: 100%;
-    height: 450px;
+    height: 350px;
     position: relative;
     top: 50px;
 }
@@ -295,20 +288,9 @@ border-right-color: #222;
 
 /**************quotes*******************/
 
-h2{
- font-size: 34px;
-    font-weight: 900;
-    margin-bottom: 10px;
-    line-height: 1.3;}
 
-h4{
-    font-size: 34px;
-    font-weight: 900;
-    margin-bottom: 10px;
-    line-height: 1.3;
-     text-transform: uppercase;
-    font-weight: 700;
-}
+
+
 
 
 .hanging{
@@ -386,32 +368,8 @@ footer .content{
   margin-bottom: 15px;
 }
 
-h4 {
-    font-size: 34px;
-    font-weight: 900;
-    margin-bottom: 10px;
-    line-height: 1.3;
-     text-transform: uppercase;
-    font-weight: 700;
-}
 
-#left {
-  float: left;
-  width: 45%;
-  padding-left: 0px;
-  padding-right:0px;
 
-}
-
-#right {
-
-  float: right;
-  width: 45%;
-   padding-right: 0px;
-  padding-left: 0px;
-    font-size:14px;
-    line-height: 1.3;
-}
 
 .footerButton{
   float: left;
@@ -486,9 +444,8 @@ footer h3, footer h4{
   .wrapper {width:100%; padding-top:100px;}
   .content {width:auto; padding:0px 30px}
   .container {width:auto; padding:0px 30px; margin-bottom: 40px;}
-  ul {margin-left: 15px;}
-  li {padding-left:0px;}
-    .overhalf{margin-right:0px; margin-left:30px; width:70%;}
+ 
+
     
 .subnav {
 display: none;
@@ -567,10 +524,7 @@ ul#menu {
     .overhalf{width:100%;}
 }
 
-@media (max-width: 800px) {
 
-	body, html {font-size: 16px;}	
-}
 
 @media (max-width: 600px) and (min-width:400px) {
    .wrapper {padding-top:80px;} 
