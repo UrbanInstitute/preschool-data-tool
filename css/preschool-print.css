@@ -5,7 +5,7 @@ body {
 .ub-page-break {
 	clear: both;
 	display: block;
-	height: 20px;
+	height: 90px;
 	page-break-before: always;
 	width: 100%;
 }
@@ -144,6 +144,9 @@ p.ub-intro {
 /************* TABS FROM HERE *************/
 #factsheet {
 	display: block !important;
+}
+.ub-fade {
+	opacity: 1 !important;
 }
 .nav-tabs {
 	display: none !important;
