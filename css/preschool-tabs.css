@@ -366,7 +366,7 @@ p.ub-intro {
 }
 .ub-right-container #ub-cbsa-menu .ub-cbsa-list.cbsa-opened,
 .ub-right-container #ub-cbsa-menu2 .ub-cbsa-list.cbsa-opened {
-	height: initial;
+	height: auto;
 	padding: 10px 0px;
 }
 .ub-right-container #ub-cbsa-menu .ub-cbsa-list.cbsa-opened.ub-opened-long,
